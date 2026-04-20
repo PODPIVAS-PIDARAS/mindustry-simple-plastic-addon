@@ -1,0 +1,8 @@
+{
+  "name": "simple_plastic_addon",
+  "displayName": "Simple Plastic Addon",
+  "author": "Podpivas",
+  "version": "1.0.0",
+  "minGameVersion": 154,
+  "description": "Adds plastic item and plastic crafter block."
+}

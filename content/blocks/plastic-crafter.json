@@ -1,0 +1,29 @@
+{
+  "type": "GenericCrafter",
+  "name": "plastic-crafter",
+
+  "category": "crafting",
+  "size": 3,
+  "health": 200,
+
+  "itemCapacity": 20,
+
+  "craftTime": 60,
+  "craftEffect": "smeltsmoke",
+
+  "requirements": [
+    "copper/50",
+    "lead/30"
+  ],
+
+  "consumes": {
+    "items": [
+      "coal/1"
+    ],
+    "power": 0.5
+  },
+
+  "outputItems": [
+    "plastic/1"
+  ]
+}
