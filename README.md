@@ -3,7 +3,7 @@
 
 Adds a new item **Plastic** and a new block **Plastic Crafter** to Mindustry.
 
-## Features
+## FeatureS
 
 - New item: `plastic`
 - New crafter block: `plastic-crafter`
